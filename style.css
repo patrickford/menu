@@ -1,0 +1,21 @@
+.menu {
+  list-style: none
+}
+
+.menu-item {
+  display: inline-block;
+  padding: 0 20px;
+  background-color: #efefef;
+}
+
+.active {
+  background-color: #ccc;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li a:visited {
+  color: black;
+}
